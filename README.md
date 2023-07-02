@@ -1,4 +1,4 @@
-# Healthcare
+# Healthcare-platform
 
 [Project Name]: Comparative Analysis of Healthcare Wearable Devices
 
