@@ -3,6 +3,8 @@ dataset/
 *.log
 **/.DS_Store
 **/*.csv
+**/*.zip
+**/data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
